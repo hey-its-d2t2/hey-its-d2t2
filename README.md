@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
-<h3 align="center">A passionate technology enthusiastic from India</h3>
-![ds2](https://github.com/hey-its-d2t2/hey-its-d2t2/assets/63626210/6b3cb67c-e0f2-415c-9767-7a16a2ad1a07)
+<h3 align="center">A passionate technology enthusiastic from India</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-its-d2t2&label=Profile%20views&color=0e75b6&style=flat" alt="hey-its-d2t2" /> </p>
 
