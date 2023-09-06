@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hey-its-d2t2&show_icons=true&locale=en" alt="hey-its-d2t2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hey-its-d2t2&" alt="hey-its-d2t2" /></p>
+<article>00.02.92</article>
