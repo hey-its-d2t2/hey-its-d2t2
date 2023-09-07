@@ -1,3 +1,5 @@
+<img src="https://ugc.production.linktr.ee/e20b7672-4edf-4f78-90d0-b5ce957a88a3_ds2.gif?io=true&size=avatar-v1" height="250px" width="250px">
+
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate technology enthusiastic from India</h3>
 
