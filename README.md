@@ -1,5 +1,6 @@
-<img style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFtyFm7Ls0&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+
+![Black Illustration Digital Marketing Linkedin Article Cover Image](https://github.com/hey-its-d2t2/hey-its-d2t2/assets/63626210/940c5936-eed8-4724-87c3-95f3eba24390)
+    
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 
 <h3 align="center">A passionate technology enthusiastic from India</h3>
