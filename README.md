@@ -3,7 +3,7 @@
     
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 
-<h3 align="center">A passionate technology enthusiastic from India</h3>
+<h3 align="center">A passionate technology enthusiastic from Bihar-India</h3>
 
 <h2 align="center">"Embrace the challenges, unlock your potential."</h2>
 
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hey-its-d2t2" alt="hey-its-d2t2" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Development & Cyber security**
 
 - 📫 How to reach me **deepsinghkumar01@gmail.com**
 
