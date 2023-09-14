@@ -6,7 +6,7 @@
 
 <h2 align="center">"Embrace the challenges, unlock your potential."</h2>
 
-<h3 align="center"><b>Design - Develop - Secure</b> <br><em>Tech Startup Co-Founder, TheCodingWala | Cyber Security Enthusiast | Software Developer | Web Developer | Visual Designer | Lifelong Learner | Observer | Visionary | Optimist | Sill learning...</em></h3>
+<h3 align="center"><b>Design - Develop - Secure</b> <br><em>Tech Startup Co-Founder, TheCodingWala | Cyber Security Enthusiast | Software Developer | Web Developer | Visual Designer | Lifelong Learner | Observer | Visionary | Optimist | Still learning...</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-its-d2t2&label=Profile%20views&color=0e75b6&style=flat" alt="hey-its-d2t2" /> </p>
 
