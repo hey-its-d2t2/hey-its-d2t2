@@ -16,7 +16,7 @@
 
 - 📫 <a href="mailto:deepsinghkumar01@gmail.com" target="_blank">Send me E-Mail✉
   
-- 📫 <a href="https://wa.me/message/HB4MHCI4KAXMP1" target="_blank">**Chat with me...**
+- 📫 <a href="https://wa.me/message/HB4MHCI4KAXMP1" target="_blank">**Chat with me💬...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
