@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Frontend Development & Cyber security**
 
-- 📫 <a href="mailto:deepsinghkumar01@gmail.com" target="_blank">Send me E-✉
+- 📫 <a href="mailto:deepsinghkumar01@gmail.com" target="_blank">Send me E-Mail✉
   
 - 📫 <a href="https://wa.me/message/HB4MHCI4KAXMP1" target="_blank">**Chat with me...**
 
