@@ -6,7 +6,7 @@
 
 <h2 align="center">"Embrace the challenges, unlock your potential."</h2>
 
-<h3 align="center"><b>Design - Develop - Secure</b> <br><em>Tech Startup Co-Founder, TheCodingWala | Cyber Security Enthusiast | Software Developer | Web Developer | Visual Designer | Lifelong Learner | Observer | Visionary | Optimist | Still learning...</em></h3>
+<h3 align="center"><b>Design - Develop - Secure</b> <br><em>Tech Startup Co-Founder, TheCoding Wala</em> | Cyber Security Enthusiast | Software Developer | Web Developer | Visual Designer | Lifelong Learner | Observer | Visionary | Optimist | Still learning...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-its-d2t2&label=Profile%20views&color=0e75b6&style=flat" alt="hey-its-d2t2" /> </p>
 
@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Frontend Development & Cyber security**
 
-- 📫 <a href="https://drive.google.com/u/0/uc?id=168zjhAR7zRzfIM_wDg6v4TA5b-NEJEjP&export=download" target="_blank">My Resume...
+- 📫 <a href="https://drive.usercontent.google.com/u/0/uc?id=1cx7bv2FUj_Kp1CotPu_fAyI40_6QrbXZ&export=download" target="_blank">**My Resume...**
 
-- 📫 <a href="mailto:deepsinghkumar01@gmail.com" target="_blank">Send me ✉E-Mail...
+- 📫 <a href="mailto:deepsinghkumar01@gmail.com" target="_blank">**Send me ✉E-Mail...**
   
 - 📫 <a href="https://wa.me/message/HB4MHCI4KAXMP1" target="_blank" visible="false">**💬Chat with me...**
 
