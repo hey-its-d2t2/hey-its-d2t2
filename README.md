@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Frontend Development & Cyber security**
 
-- 📫 <a href="https://drive.usercontent.google.com/u/0/uc?id=1cx7bv2FUj_Kp1CotPu_fAyI40_6QrbXZ&export=download" target="_blank">**My Resume...**
+- 📫 <a href="https://drive.usercontent.google.com/u/0/uc?id=1w0m68bF-LpnvFQ0H_x_tkrxTr4QwSmSN&export=download" target="_blank">**My Resume...**
 
 - 📫 <a href="mailto:deepsinghkumar01@gmail.com" target="_blank">**Send me ✉E-Mail...**
   
