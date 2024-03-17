@@ -8,11 +8,32 @@
 
 <h3 align="center"><b>Design - Develop - Secure</b> <br><em>Tech Startup Co-Founder, TheCoding Wala</em> | Cyber Security Enthusiast | Software Developer | Web Developer | Visual Designer | Lifelong Learner | Observer | Visionary | Optimist | Still learning...</h3>
 
+<h3>Summary</h3>
+<p align="justify">I am highly motivated to obtain a full-time software developer role where I can utilize my creativity, 
+determination, and strategic mindset to produce impactful and revolutionary outcomes. My boundless enthusiasm for 
+technology, coupled with my versatile expertise in software development, graphic design, and cyber security, positions 
+me as a well-rounded and adaptable candidate. My strong proficiency in development and security, combined with a
+visionary outlook, equips me to excel in any demanding setting. Continuously seeking growth opportunities, I aim to 
+infuse a modern and inventive approach into software development. Ready to embark on my journey as a software 
+developer, I am excited to push the boundaries of my career and achieve new heights.</p>
+
+<h3>Tech Stack</h3>
+<ul>
+  <li >Web Technologies:</li>
+  <p>HTML, CSS, JavaScript, Bootstrap, JSP, API, WordPress, ... </p>
+  <li >Backend : </li>
+  <p>C, C++, Core Java , Advance Java, Java 8, OOPs, JDBC, J2EE, Multithreading, Collection, Spring MVC, 
+SpringBoot, Hibernate, Microservices, Rest API, C#, .NET MySQL, Postgres…</p>
+  <li >Developer Tools:</li>
+  <p>IntelliJ, Eclipse, NetBeans, STS-4, Postman, Visual Studio Code, VS Code, Version Control : Git, 
+GitHub, Testing: J-Unit, MS-Office, Google Tools: docs, sheets, analytics, forms, site, slides, meet, Adobe XD, Figma, 
+Illustrator, Canva, Windows, Linux, …</p>
+</ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-its-d2t2&label=Profile%20views&color=0e75b6&style=flat" alt="hey-its-d2t2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hey-its-d2t2" alt="hey-its-d2t2" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development & Cyber security**
+- 🌱 I’m currently learning **Fullstack Development (Java & MEAN) & Cyber security**
 
 - 📫 <a href="https://drive.usercontent.google.com/u/0/uc?id=1w0m68bF-LpnvFQ0H_x_tkrxTr4QwSmSN&export=download" target="_blank">**My Resume...**
 
