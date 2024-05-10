@@ -35,7 +35,7 @@ Illustrator, Canva, Windows, Linux, …</p>
 
 - 🌱 I’m currently learning **Fullstack Development (Java & MEAN) & Cyber security**
 
-- 📫 <a href="https://drive.usercontent.google.com/u/0/uc?id=1w0m68bF-LpnvFQ0H_x_tkrxTr4QwSmSN&export=download" target="_blank">**My Resume...**
+- 📫 <a href="https://drive.usercontent.google.com/u/0/uc?id=1UTKdlXf9AUDjvr-nk3ioOdoujvT3PAs-&export=download" target="_blank">**My Resume...**
 
 - 📫 <a href="mailto:deepsinghkumar01@gmail.com" target="_blank">**Send me ✉E-Mail...**
   
