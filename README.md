@@ -1,4 +1,5 @@
-![Deepak Cover Image](https://github.com/hey-its-d2t2/hey-its-d2t2/assets/63626210/387e43ba-32a3-441a-a874-993df0cf8e20)
+![Uploading Github Banner (1).gif…]()
+
 
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 
