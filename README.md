@@ -1,4 +1,4 @@
-![Uploading Github Banner (1).gif…]()
+![GithubBanner](https://github.com/hey-its-d2t2/hey-its-d2t2/assets/63626210/0f6340ea-46aa-4d35-9203-944edd77e289)
 
 
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
