@@ -33,8 +33,8 @@
 
 - 🌱 I’m currently learning **Fullstack Development (Java & MEAN) With DevOps & Cyber security**
 
-- 📫**My Resume :**   <a href="https://drive.usercontent.google.com/u/0/uc?id=1nLXMAkDYsMDNlgHFGhdMBx6XcBoFln9S&export=download" target="_blank"> Download</a>    ||
-<a href = "https://drive.google.com/file/d/1nLXMAkDYsMDNlgHFGhdMBx6XcBoFln9S/view"> View </a> 
+- 📫**My Resume :**   <a href="https://drive.usercontent.google.com/u/0/uc?id=1Nx0oxmI-1CWmuHyHAK_GXvu7KOlyRGxx&export=download" target="_blank"> Download</a>    ||
+<a href = "https://drive.google.com/file/d/1Nx0oxmI-1CWmuHyHAK_GXvu7KOlyRGxx/view"> View </a> 
 
 - 📫 **Send Email:**   <a href="mailto:deepsinghkumar01@gmail.com" target="_blank"> Send</a>
   
