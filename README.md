@@ -87,6 +87,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hey-its-d2t2&show_icons=true&locale=en&layout=compact" alt="hey-its-d2t2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hey-its-d2t2&show_icons=true&locale=en" alt="hey-its-d2t2" /></p>
@@ -95,4 +96,13 @@
 
 ### ✍️  Just for today...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 <article>00.02.92</article>
